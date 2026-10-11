@@ -1,0 +1,2 @@
+shipment_id,supplier_id,product_id,quantity,eta_date,status
+SH-77,SUP-01,CAP-001,50,2026-10-12,planned

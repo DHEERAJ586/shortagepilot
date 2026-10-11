@@ -1,0 +1,4 @@
+order_id,customer_name,product_id,quantity,due_date,contractual_priority,penalty_per_unit
+ORD-101,Atlas Motors,CAP-001,60,2026-10-12,true,0
+ORD-102,Beacon Electrical,CAP-001,50,2026-10-12,false,300
+ORD-103,Crest Contractors,CAP-001,40,2026-10-15,false,0

@@ -1,0 +1,6 @@
+streamlit>=1.40
+pandas>=2.2
+openai>=1.50
+python-dotenv>=1.0
+pytest>=8.0
+watchdog>=4.0
